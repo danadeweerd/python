@@ -1,5 +1,5 @@
 # python
-In deze repository komen **python** programma's.
+In deze repository komen **python** _programma's_.
 
 ---
 
