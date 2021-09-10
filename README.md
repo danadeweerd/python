@@ -1,4 +1,4 @@
-# python
+# Python
 In deze repository komen **python** _programma's_.
 
 ---
